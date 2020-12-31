@@ -1,5 +1,3 @@
-import functools
-
 #fn = 'c:/LocalData/aslade/AdventOfCode/2020/input_10_training.txt'
 #fn = 'c:/LocalData/aslade/AdventOfCode/2020/input_10_training_v2.txt'
 fn = 'c:/LocalData/aslade/AdventOfCode/2020/input_10.txt'
